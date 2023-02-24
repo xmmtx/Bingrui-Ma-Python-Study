@@ -1,0 +1,10 @@
+a=eval(input())
+b=eval(input())
+c=a//100
+d=a%100
+e=d+b
+f=e//60
+g=e%60
+h=(c+f)*100+g
+i=h
+print(i)

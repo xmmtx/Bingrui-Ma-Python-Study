@@ -1,0 +1,11 @@
+import turtle
+pen1=turtle.Pen()
+pen1.forward(100)
+pen1.left(90)
+pen1.forward(100)
+pen1.left(90)
+pen1.forward(100)
+pen1.left(90)
+pen1.forward(100)
+pen1.left(180)
+turtle.done()
